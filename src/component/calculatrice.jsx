@@ -1,6 +1,6 @@
 import React from "react";
-import calculReducer from "./calculReducer";
-import BoutonCal from "./BoutonCal";
+import calculReducer from "../reducer/calculReducer";
+import BoutonCal from "./boutonCal";
 import InputCal from "./inputCal";
 
 const Calculatrice = () => {
